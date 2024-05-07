@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WW94IzUkPp/JM9cXbJ7G2isNpwdseAs3xUuUuBWwKJhBg35PmPS6FlRfDkdXQGIeul72rjuGnnCDAeDI2lLr3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Łukasz\\source\\repos\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\8.0.4\\microsoft.aspnetcore.authentication.certificate.8.0.4.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

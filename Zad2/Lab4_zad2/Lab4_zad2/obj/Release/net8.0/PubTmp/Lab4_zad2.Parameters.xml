@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WojcikLab4" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Łukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Lab4_zad2.Data.ApplicationDbContext" description="" value="Data Source=mojabazadanychdbserver.database.windows.net,1433;Initial Catalog=mojabazadanych;User ID=vvujsik;Password=Lolipop1235" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Łukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\Lab4_zad2\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

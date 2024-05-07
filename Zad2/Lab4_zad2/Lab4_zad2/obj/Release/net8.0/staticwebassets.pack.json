@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Łukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Lab4_zad2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lab4_zad2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Łukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Łukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Łukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Łukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Lab4_zad2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Lab4_zad2.props",
+      "PackagePath": "build\\Lab4_zad2.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab4_zad2.props",
+      "PackagePath": "buildMultiTargeting\\Lab4_zad2.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab4_zad2.props",
+      "PackagePath": "buildTransitive\\Lab4_zad2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

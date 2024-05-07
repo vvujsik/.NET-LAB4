@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql3": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/WojcikLab4/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsnazwastringa_B2B2D0645E",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mojabazadanychdbserver/databases/mojabazadanych",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:nazwastringa"
+    }
+  }
+}

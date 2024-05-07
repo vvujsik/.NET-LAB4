@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ten plik jest wykorzystywany przez proces publikowania/pakowania projektu internetowego. Możesz dostosować zachowanie tego procesu
+ poprzez edycję tego pliku MSBuild. Aby dowiedzieć się więcej o tym działaniu, odwiedź stronę https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuyGS0bhim0u467oUizbNeQAAAAACAAAAAAAQZgAAAAEAACAAAAAnpAXUuRjLq1jE1FdcfBqrSx4OJ3R2+KUA6ghApKTJDQAAAAAOgAAAAAIAACAAAAD+AHy3z4EJMcgRcTHFJkYWouzxXKG+RtIBU6tXkfXhbIAAAABzDAdb1gnIICmKo4BFt6YmF2rkieOljfkKiWUSnA3bM1ZtLVfmI4J6P2iJj86SLEhzHNwjuE0iNDDoFrHCRZrFX3lhNlm3IwKRHKd/rd6fBD6l3kDkUXEuD9qLSrkd2sFe+9o9rh6Nol7AhNWNylrZRbT02xMhtt089/qArhrrAUAAAAClltoamJJSsFMfhUQS3n4QvjLUPXfrDlECIk2ObfJuCfZzGDIEZK+w/66W9/zQp2yFXCgYqAE/lPPgJZywlFfZ</EncryptedPassword>
+    <History>True|2024-05-07T19:46:33.2778087Z;True|2024-05-07T21:24:05.3443058+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=mojabazadanychdbserver.database.windows.net,1433%3bInitial Catalog=mojabazadanych%3bUser ID=vvujsik%3bPassword=Lolipop1235</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Lab4_zad2.Data.ApplicationDbContext">
+      <Value>Data Source=mojabazadanychdbserver.database.windows.net,1433%3bInitial Catalog=mojabazadanych%3bUser ID=vvujsik%3bPassword=Lolipop1235</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

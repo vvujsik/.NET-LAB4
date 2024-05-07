@@ -1,0 +1,70 @@
+﻿@page "/games"
+@using Microsoft.AspNetCore.Components.QuickGrid
+@inject Lab4_zad2.Data.ApplicationDbContext DB
+@using Lab4_zad2.Components.Baza_danych
+@rendermode InteractiveServer
+
+<PageTitle>Index</PageTitle>
+
+<h1>Games</h1>
+
+<AuthorizeView>
+    <Authorized>
+<p>
+    <a href="games/create">Create New</a>
+</p>
+    </Authorized>
+</AuthorizeView>
+
+<input class="form-control" @onchange="@Input" />
+
+<QuickGrid Class="table" Items="@(Filtered as IQueryable<Game>)">
+    <PropertyColumn Property="game => game.Title" />
+    
+    <PropertyColumn Property="game => game.RelaseDate != null ? game.RelaseDate.Value.ToShortDateString() : null" Title="RelaseDate" />
+    <PropertyColumn Property="game => game.Rate" />
+
+    <TemplateColumn Context="game">
+        <AuthorizeView>
+            <Authorized>
+        <a href="@($"games/edit?id={game.Id}")">Edit</a> |
+        <a href="@($"games/details?id={game.Id}")">Details</a> |
+        <a href="@($"games/delete?id={game.Id}")">Delete</a>
+            </Authorized>
+            <NotAuthorized>
+                <a href="@($"games/details?id={game.Id}")">Details</a> 
+            </NotAuthorized>
+        </AuthorizeView>
+    </TemplateColumn>
+</QuickGrid>
+
+<button class="btn btn-primary" @onclick="FilterRate">"Filter by Rate"</button>
+<button class="btn btn-primary" @onclick="FilterDate">"Filter by Date"</button>
+<button class="btn btn-primary" @onclick="Unfilter">Unfilter</button>
+
+@code{
+
+    IEnumerable<Game> Filtered;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Filtered = DB.Game;
+    }
+
+    private void Input(ChangeEventArgs arg){
+        string tekst = arg.Value.ToString();
+        Filtered = DB.Game.Where(x => x.Title.Contains(tekst));
+    }
+    private void FilterRate()
+    {
+        Filtered = DB.Game.OrderByDescending(x => x.Rate);
+    }
+    private void FilterDate()
+    {
+        Filtered = DB.Game.OrderByDescending(x => x.RelaseDate);
+    }
+    private void Unfilter()
+    {
+        Filtered = DB.Game;
+    }
+}

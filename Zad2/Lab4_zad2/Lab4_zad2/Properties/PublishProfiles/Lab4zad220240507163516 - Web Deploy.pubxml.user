@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ten plik jest wykorzystywany przez proces publikowania/pakowania projektu internetowego. Możesz dostosować zachowanie tego procesu
+ poprzez edycję tego pliku MSBuild. Aby dowiedzieć się więcej o tym działaniu, odwiedź stronę https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuyGS0bhim0u467oUizbNeQAAAAACAAAAAAAQZgAAAAEAACAAAACW2fYCKbbrcyBNfk0wy6gADAVLnUE2QEK4fGQtpK+qygAAAAAOgAAAAAIAACAAAADoSpPMWXEDK7vpr05pfSU0ooPbv3xsYbocvJ+3EBCOcoAAAAAjDevxxL+GadeEm9t1qE8jGE9F9xf1Dp7QdRwPgqs4KujBmalRO8ug+QIuxTW6uKI+Yu68XgJ5oa/PWgVyvyMNcRpmzLGbsreDI4nTWtrtYVuKw8Q61pTMGx5YefTGopF8utZhwf11T4bdKI39ya45x52/dFqUCNlsehMuDbV7uUAAAACeNXSrX6D02CKEJl9yLrKm7tfwu7dmFutLMyvY44vBamsVIDFCeHovJUMWuzWflWo2nZOdGUvvq0LzIiYXh3/m</EncryptedPassword>
+    <History>False|2024-05-07T19:14:27.7261279Z;False|2024-05-07T20:57:30.6264188+02:00;True|2024-05-07T17:22:37.4587636+02:00;True|2024-05-07T16:54:07.4462590+02:00;True|2024-05-07T16:41:10.4691031+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-Lab4_zad2-d91ab463-421b-49b4-bf47-c9a40ce39f09%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Lab4_zad2.Data.ApplicationDbContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-Lab4_zad2-d91ab463-421b-49b4-bf47-c9a40ce39f09%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

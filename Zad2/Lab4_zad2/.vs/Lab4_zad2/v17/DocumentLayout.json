@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\components\\pages\\gamepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\components\\pages\\gamepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\components\\baza_danych\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\components\\baza_danych\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\components\\pages\\gamepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\components\\pages\\gamepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\components\\pages\\gamepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\components\\pages\\gamepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\components\\pages\\gamepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\components\\pages\\gamepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\lab4_zad2\\components\\pages\\gamepages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:lab4_zad2\\components\\pages\\gamepages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Data\\Migrations\\20240506193543_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF69D420-A40E-4910-897C-337F1979D87C}|Lab4_zad2\\Lab4_zad2.csproj|solutionrelative:Lab4_zad2\\Data\\Migrations\\20240506193543_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Edit.razor",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Components\\Pages\\GamePages\\Edit.razor",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Edit.razor",
+              "RelativeToolTip": "Lab4_zad2\\Components\\Pages\\GamePages\\Edit.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T13:45:30.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Delete.razor",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Components\\Pages\\GamePages\\Delete.razor",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Delete.razor",
+              "RelativeToolTip": "Lab4_zad2\\Components\\Pages\\GamePages\\Delete.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T13:03:00.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Index.razor",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Components\\Pages\\GamePages\\Index.razor",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Index.razor",
+              "RelativeToolTip": "Lab4_zad2\\Components\\Pages\\GamePages\\Index.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:32:52.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Details.razor",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Components\\Pages\\GamePages\\Details.razor",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Details.razor",
+              "RelativeToolTip": "Lab4_zad2\\Components\\Pages\\GamePages\\Details.razor",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:40:31.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240506193543_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Data\\Migrations\\20240506193543_Init2.cs",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Data\\Migrations\\20240506193543_Init2.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Data\\Migrations\\20240506193543_Init2.cs",
+              "RelativeToolTip": "Lab4_zad2\\Data\\Migrations\\20240506193543_Init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:35:43.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Lab4_zad2\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:32:29.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Create.razor",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Components\\Pages\\GamePages\\Create.razor",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Pages\\GamePages\\Create.razor",
+              "RelativeToolTip": "Lab4_zad2\\Components\\Pages\\GamePages\\Create.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:27:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab4_zad2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:16:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Baza_danych\\Game.cs",
+              "RelativeDocumentMoniker": "Lab4_zad2\\Components\\Baza_danych\\Game.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Lab4_zad2\\Lab4_zad2\\Components\\Baza_danych\\Game.cs",
+              "RelativeToolTip": "Lab4_zad2\\Components\\Baza_danych\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:18:26.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
